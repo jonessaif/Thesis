@@ -1,0 +1,71 @@
+{
+    "dialogues": [
+        {
+            "dialogue_id": 800,
+            "turns": [
+                {
+                    "turn_id": 0,
+                    "transcript": [
+                        "पूर्व",
+                        "के",
+                        "किसी",
+                        "सस्ते",
+                        "रेस्टोरेंट",
+                        "का",
+                        "फ़ोन",
+                        "नंबर",
+                        "और",
+                        "पोस्टकोड",
+                        "बताइये"
+                    ],
+                    "turn_label": [],
+                    "belief_state": [],
+                    "system_acts": [],
+                    "system_transcript": "",
+                    "num": {
+                        "transcript": [
+                            0,
+                            162,
+                            4,
+                            48,
+                            42,
+                            49,
+                            50,
+                            124,
+                            29,
+                            25,
+                            184,
+                            141,
+                            1
+                        ],
+                        "system_acts": [
+                            [
+                                0,
+                                17,
+                                1
+                            ]
+                        ]
+                    },
+                    "pred": [
+                        [
+                            "area",
+                            "पूर्व"
+                        ],
+                        [
+                            "price range",
+                            "सस्ता"
+                        ],
+                        [
+                            "request",
+                            "phone"
+                        ],
+                        [
+                            "request",
+                            "postcode"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

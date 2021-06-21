@@ -1,0 +1,21 @@
+{
+  "dexp": "exp",
+  "model": "glad",
+  "epoch": 400,
+  "demb": 300,
+  "dhid": 150,
+  "batch_size": 50,
+  "lr": 0.001,
+  "stop": "joint_goal",
+  "resume": null,
+  "nick": "default",
+  "seed": 42,
+  "test": false,
+  "gpu": null,
+  "dropout": {
+    "emb": 0.2,
+    "local": 0.2,
+    "global": 0.2
+  },
+  "dout": "exp/glad/default"
+}
